@@ -1,0 +1,1 @@
+# personal_portfolio_django_dynamic
